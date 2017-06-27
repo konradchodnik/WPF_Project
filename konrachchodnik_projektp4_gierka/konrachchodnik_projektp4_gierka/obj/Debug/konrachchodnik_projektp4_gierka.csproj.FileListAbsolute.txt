@@ -1,0 +1,14 @@
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\konrachchodnik_projektp4_gierka.csprojResolveAssemblyReference.cache
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\MainWindow.g.cs
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\App.g.cs
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\konrachchodnik_projektp4_gierka_MarkupCompile.cache
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\konrachchodnik_projektp4_gierka_MarkupCompile.lref
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\bin\Debug\konrachchodnik_projektp4_gierka.exe.config
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\bin\Debug\konrachchodnik_projektp4_gierka.exe
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\bin\Debug\konrachchodnik_projektp4_gierka.pdb
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\MainWindow.baml
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\konrachchodnik_projektp4_gierka.g.resources
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\konrachchodnik_projektp4_gierka.Properties.Resources.resources
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\konrachchodnik_projektp4_gierka.csproj.GenerateResource.Cache
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\konrachchodnik_projektp4_gierka.exe
+c:\users\konraduser\documents\visual studio 2017\Projects\konrachchodnik_projektp4_gierka\konrachchodnik_projektp4_gierka\obj\Debug\konrachchodnik_projektp4_gierka.pdb
